@@ -9,11 +9,11 @@ This repository contains the source code that implements a security system using
 
 ![Equipment Image](/img/equipment.jpg)
 
-**1.**  Red and Green LEDs
-**2.** 200 Ohm Resistor
-**3.** Breadboard
-**4.** LCD1602 Module
-**5.** MEGA 2560 Controller Board
-**6.** Membrane Switch Module
-**7.** Female-to-Male Dupont Wires
-**8.** Breadboard Jumper Wires
+**1.**  Red and Green LEDs   
+**2.** 200 Ohm Resistor   
+**3.** Breadboard   
+**4.** LCD1602 Module   
+**5.** MEGA 2560 Controller Board   
+**6.** Membrane Switch Module   
+**7.** Female-to-Male Dupont Wires   
+**8.** Breadboard Jumper Wires   
